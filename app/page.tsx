@@ -6,7 +6,7 @@ export default function Home() {
           {/* Company Logo/Name */}
           <div className="mb-8">
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-4">
-              MEKOCHE
+              MAKOCHENERGY
             </h1>
             <p className="text-xl md:text-2xl text-blue-200 font-light tracking-wide">
               OIL & GAS COMPANY
@@ -48,7 +48,7 @@ export default function Home() {
                 For inquiries, please contact us:
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center text-sm text-blue-200">
-                <span>📧 info@mekoche.com</span>
+                <span>📧 info@makochenergy.com</span>
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@ export default function Home() {
           {/* Footer */}
           <div className="mt-8 text-center">
             <p className="text-blue-300/60 text-sm">
-              © 2026 Mekoche Oil & Gas Company. All rights reserved.
+              © 2026 Makochenergy Oil & Gas Company. All rights reserved.
             </p>
           </div>
         </div>
